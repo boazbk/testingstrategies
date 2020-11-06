@@ -1,0 +1,34 @@
+
+
+# auxiliary files for latex
+*.aux
+*.fdb_latexmk
+*.log
+*.fls
+*.out
+*.bbl
+*.blg
+*.synctex.gz
+*.pygtex
+*.pyg
+
+*.pyc
+
+# *.jar
+
+data.pickle
+*.zip
+#
+
+
+
+# ignore ipython nb checkpoints
+.ipynb_checkpoints/
+
+# node modules
+node_modules/
+
+
+__pycache__/
+
+.DS_Store

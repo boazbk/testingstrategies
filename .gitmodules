@@ -1,0 +1,4 @@
+[submodule "seirsplus"]
+	path = seirsplus
+	url = https://github.com/boazbk/seirsplus.git
+	branch = latest
