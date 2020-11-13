@@ -6,7 +6,7 @@ This repository contains the accompanying code and data for the paper [Optimizin
 
 The notebook [Varying_params](https://github.com/boazbk/testingstrategies/blob/main/Varying_params.ipynb) contains the code running the experiment. 
 
-The data of our numerical simulations is in the folder [data/20201020_14_12_29_400](https://github.com/boazbk/testingstrategies/tree/main/data/20201020_14_12_29_400)
+The data of our numerical simulations is in the folder [data/20201020_14_12_29_400](https://github.com/boazbk/testingstrategies/tree/main/data/20201020_14_12_29_400). The data for the experiments with the gaussian partition variant is [data/20201106_23_41_23_400](https://github.com/boazbk/testingstrategies/tree/main/data/20201106_23_41_23_400).
 
 Our simulation code is in the repository [boazbk/seirsplus](https://github.com/boazbk/seirsplus) which is a fork of the repository [ryansmcgee/seirsplus](https://github.com/ryansmcgee/
 seirsplus)
